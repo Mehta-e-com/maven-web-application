@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-233-186-144.ap-south-1.compute.amazonaws.com:8081/repository/Uber-login-14Febrelease//</url>
+	      <url>http://ec2-13-233-186-144.ap-south-1.compute.amazonaws.com:8081/repository/Uber-14f-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-233-186-144.ap-south-1.compute.amazonaws.com:8081/repository/Uber-login-14febSnap/</url>
+	      <url>http://ec2-13-233-186-144.ap-south-1.compute.amazonaws.com:8081/repository/Uber-14f-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
